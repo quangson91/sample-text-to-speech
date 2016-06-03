@@ -11,7 +11,7 @@
     tools:context="vnzit.com.texttospeech.MainActivity">
 
     <EditText
-        android:id="@+id/tvInput"
+        android:id="@+id/etInput"
         android:hint="@string/type_text_here"
         android:maxLines="1"
         android:layout_width="match_parent"
