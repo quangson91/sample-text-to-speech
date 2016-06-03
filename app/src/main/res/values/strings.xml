@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TextToSpeech</string>
+    <string name="type_text_here">Type text here...</string>
+    <string name="speak">Speak</string>
 </resources>
